@@ -15,4 +15,8 @@ by the Tortoise as the Hare did so. The Hare came upon the
 finishing line and passed it. Well! Interesting end to the story
 
 
+<<<<<<< HEAD
     Slow but steady wins the race. But is it Right?? The Author asked himself 
+=======
+    Slow but steady wins the race. I am not happy.  
+>>>>>>> main
